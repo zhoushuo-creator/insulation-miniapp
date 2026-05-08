@@ -1,0 +1,24 @@
+{
+  "name": "保温材料智能推荐",
+  "appid": "__UNI__XXXXXXX",
+  "description": "保温材料产品查看与AI智能推荐",
+  "versionName": "0.1.0",
+  "versionCode": "100",
+  "transformPx": false,
+  "mp-weixin": {
+    "appid": "wx-your-appid-here",
+    "setting": {
+      "urlCheck": false,
+      "es6": true,
+      "postcss": true,
+      "minified": true
+    },
+    "usingComponents": true,
+    "lazyCodeLoading": "requiredComponents"
+  },
+  "uniStatistics": {
+    "enable": false
+  },
+  "vueVersion": "2",
+  "sassImplementationName": "node-sass"
+}

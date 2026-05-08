@@ -1,0 +1,20 @@
+/* uni-app 全局 SCSS 变量 */
+
+$uni-color-primary: #007aff;
+$uni-color-success: #4cd964;
+$uni-color-warning: #f0ad4e;
+$uni-color-error: #dd524d;
+
+$uni-bg-color: #f5f5f5;
+$uni-bg-color-grey: #f8f8f8;
+$uni-text-color: #333;
+$uni-text-color-grey: #999;
+
+/* uView UI 主题变量 */
+@import "uview-ui/theme.scss";
+
+$u-primary: #2979ff;
+$u-warning: #ff9900;
+$u-success: #19be6b;
+$u-error: #fa3534;
+$u-info: #909399;

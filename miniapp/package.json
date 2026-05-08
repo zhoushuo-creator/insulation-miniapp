@@ -1,0 +1,8 @@
+{
+  "name": "insulation-miniapp",
+  "version": "0.1.0",
+  "description": "保温材料智能推荐小程序",
+  "dependencies": {
+    "uview-ui": "^2.0.38"
+  }
+}
